@@ -289,10 +289,8 @@ Jika melakukan lynx tanpa authorization
     
     ![Untitled](Laporan%20Soal%20Shift%203%20d7b50ee772084ceea0e1927ad7acf740/Untitled%2020.png)
     
-    ![Untitled](Laporan%20Soal%20Shift%203%20d7b50ee772084ceea0e1927ad7acf740/Untitled%2021.png)
+    ![Untitled](Laporan%20Soal%20Shift%203%20d7b50ee772084ceea0e1927ad7acf740/Untitled%2022.png)
     
-
-![Untitled](Laporan%20Soal%20Shift%203%20d7b50ee772084ceea0e1927ad7acf740/Untitled%2022.png)
 
 ### 10. Transaksi jual beli tidak dilakukan setiap hari, oleh karena itu akses internet dibatasi hanya dapat diakses setiap hari **Senin-Kamis pukul 07.00-11.00** dan setiap hari **Selasa-Jum’at pukul 17.00-03.00** keesokan harinya **(sampai Sabtu pukul 03.00)**
 
