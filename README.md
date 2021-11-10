@@ -441,7 +441,7 @@ Karena kecepatan Luffy dibatasi sebesar 10kbps, maka diberikan pembatasan bandwi
 ```bash
 delay_pools 1
 delay_class 1 1
-delay_parameters 1 10000/10000
+delay_parameters 1 1250/1250
 delay_access 1 allow downloadluffy luffy
 delay_access 1 deny all
 ```
